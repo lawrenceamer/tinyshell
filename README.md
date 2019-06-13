@@ -14,10 +14,3 @@ the project contains of two files :
 Remote shell python file : considered as Client to connect with target python remote shell.py url password
 php shell php file : considered as php backdoor . password can be edited manually by modifing the code .
 
-#credits
-
-Lawrence Amer - lawrenceamer.me
-
-#contact 
-
-contact@lawrenceamer.me
